@@ -6,7 +6,7 @@
 
 > **A comprehensive AI-powered robotic platform featuring voice interaction, computer vision, and autonomous behaviors**
 >
-> *BSc Final Project in Computer Science*  
+> *BSc Final Project in Electrical and Electric engineering*  
 > *Authors: Maria Nakhle & Christian*
 
 ---
