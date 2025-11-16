@@ -700,21 +700,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
----
-
-## 📞 Contact
-
-For questions, suggestions, or collaboration opportunities:
-
-- **GitHub**: [MariaNakhle/Final-Project---Marich-Robot-Car-](https://github.com/MariaNakhle/Final-Project---Marich-Robot-Car-)
-- **Project Documentation**: See included PDF files for detailed technical specifications
-
----
-
 <div align="center">
 
 **⭐ If you find this project interesting, please consider giving it a star! ⭐**
 
-*Built with ❤️ by Maria Nakhle & Christian*
+*Built with ❤️ by Maria & Christian*
 
 </div>
